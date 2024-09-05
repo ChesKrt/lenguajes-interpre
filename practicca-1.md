@@ -3,7 +3,7 @@ Nombre: Cesar Flores Basurto
 Edad: 19 años
 
 
-![Foto](/Lenguajes_Interpretados_3Dev/IMG_5765.jpg)
+![Foto](/IMG_5765.jpg)
 
 
 ---
