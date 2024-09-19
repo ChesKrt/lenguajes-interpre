@@ -5,4 +5,4 @@ Cesar Flores Basurto
 - [Practica 5](/practica-5.md)  
 - [Practica 6](https://github.com/ChesKrt/Practica6)
 - [Practica 7](https://github.com/ChesKrt/Practica6)
-
+- [Practica 8](/practica-8.md)  
