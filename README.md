@@ -6,3 +6,4 @@ Cesar Flores Basurto
 - [Practica 6](https://github.com/ChesKrt/Practica6)
 - [Practica 7](https://github.com/ChesKrt/Practica6)
 - [Practica 8](/practica-8.md)  
+- [Practica 12](https://cheskrt.github.io/lenguajes-interpre/)
