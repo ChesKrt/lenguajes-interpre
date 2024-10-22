@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+:root{
+  --background-gt: rgb(141, 141, 14);
+  --font-body: "Cormorant Garamond", serif;
+  --margin-left-Personajes: 50px;
+}
+
 body{
   font-size: 16px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: var(--font-body);
   background-color: black;
   color: white;
 }
@@ -24,6 +30,44 @@ table{
   width: 100%;
 }
 
-#Portada{
+.Portada{
   width: 20%;
+}
+
+.centercontent{
+  text-align: center;
+}
+
+.txtcolor-red{
+  color: red;
+}
+
+.linkdirection{
+  text-align: center;
+}
+
+.Gokucolor{
+  color: aquamarine;
+}
+
+.Pancolor{
+  color: orange;
+}
+
+.Trunkscolor{
+  color: purple;
+}
+
+.margen{
+  margin-left: var(--margin-left-Personajes);
+}
+
+.seasoncolor{
+  padding: 5px;
+  background-color: var(--background-gt);
+}
+
+.seasontxtcolor{
+  color: black;
+  font-size: 20px;
 }
